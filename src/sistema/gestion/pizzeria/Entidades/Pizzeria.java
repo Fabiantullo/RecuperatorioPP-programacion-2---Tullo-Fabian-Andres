@@ -1,4 +1,4 @@
-package recuperatoriopp.tullo.fabian.Entidades;
+package sistema.gestion.pizzeria.Entidades;
 
 import java.util.ArrayList;
 import java.util.Iterator;

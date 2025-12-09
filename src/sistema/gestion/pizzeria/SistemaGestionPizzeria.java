@@ -1,15 +1,15 @@
-package recuperatoriopp.tullo.fabian;
+package sistema.gestion.pizzeria;
 
-import recuperatoriopp.tullo.fabian.Entidades.Fabricante;
-import recuperatoriopp.tullo.fabian.Entidades.Pizza;
-import recuperatoriopp.tullo.fabian.Entidades.Pizzeria;
-import recuperatoriopp.tullo.fabian.Entidades.Postre;
-import recuperatoriopp.tullo.fabian.Entidades.Producto;
-import recuperatoriopp.tullo.fabian.Entidades.TamanoPizza;
-import recuperatoriopp.tullo.fabian.Entidades.TipoPizza;
-import recuperatoriopp.tullo.fabian.Entidades.TipoPostre;
+import sistema.gestion.pizzeria.Entidades.Fabricante;
+import sistema.gestion.pizzeria.Entidades.Pizza;
+import sistema.gestion.pizzeria.Entidades.Pizzeria;
+import sistema.gestion.pizzeria.Entidades.Postre;
+import sistema.gestion.pizzeria.Entidades.Producto;
+import sistema.gestion.pizzeria.Entidades.TamanoPizza;
+import sistema.gestion.pizzeria.Entidades.TipoPizza;
+import sistema.gestion.pizzeria.Entidades.TipoPostre;
 
-public class RecuperatorioPPTulloFabian {
+public class SistemaGestionPizzeria {
 
     public static void main(String[] args) {
         // FABRICANTES
