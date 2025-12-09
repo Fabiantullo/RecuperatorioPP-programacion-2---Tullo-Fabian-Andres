@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Gestión de Pizzería (POO)
 
 Este proyecto es un sistema de gestión para una pizzería, desarrollado en Java aplicando conceptos fundamentales de la Programación Orientada a Objetos.
@@ -18,3 +19,8 @@ El sistema trata diferentes tipos de productos de manera uniforme. Por ejemplo, 
 
 ### Interfaces
 Se define la interfaz `IVendible` que establece un contrato para todos los objetos que pueden ser vendidos en la pizzería. Esto desacopla la implementación de la lógica de venta, permitiendo que diferentes clases cumplan con esta funcionalidad sin compartir necesariamente la misma jerarquía de herencia.
+=======
+Recuperatorio Fabian Andres Tullo
+Diagrama UML 
+https://drive.google.com/file/d/160rbji5T1tj-GL8m-HYUlTHl37q73MO1/view?usp=sharing
+>>>>>>> 162b4af051b4a67e0ca53ef5eb1798f20db48422
