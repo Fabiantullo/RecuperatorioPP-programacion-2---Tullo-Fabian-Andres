@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sistema de Gestión de Pizzería (POO)
 
 Este proyecto es un sistema de gestión para una pizzería, desarrollado en Java aplicando conceptos fundamentales de la Programación Orientada a Objetos.
